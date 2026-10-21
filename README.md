@@ -6,13 +6,13 @@ Does it look like a proper Toyota Hilux? Kind of.
 Does it look miserable? Absolutely. 💀  
 But hey, it's my first time using FreeCAD, so I'll take it as a win.
 
-## 📸 Model Preview
+## Model Preview
 
 ![Toyota Hilux - Side View](1.png)
 
 ![Toyota Hilux - Another Perspective](2.png)
 
-## 🛠️ About the Project
+## About the Project
 
 This project was my attempt at recreating a **Toyota Hilux pickup truck** from scratch in FreeCAD.
 
@@ -29,7 +29,7 @@ The final model is far from perfect, but I managed to put together something tha
 - Windshield and window outlines
 - A few additional exterior details
 
-## 💀 Problems I Encountered
+## Problems I Encountered
 
 ### 1. The Mysterious Disappearing Model
 
@@ -55,27 +55,27 @@ Some parts are rough, some proportions are off, and a few things definitely coul
 
 But considering the time limit and my complete lack of prior FreeCAD experience, I'm happy I managed to finish something.
 
-## 📚 What I Learned
+## Things I've Learned
 
-- Navigating and working with FreeCAD
-- Creating and editing sketches
-- Using basic Part Design operations
-- Building more complex shapes from simpler geometry
-- Understanding how easily one operation can break an entire model
-- Working within a deadline while learning an unfamiliar tool
+- How to move around and work with FreeCAD
+- Sketch creation/editing
+- Basic operations in Part Design workbench
+- Construction of complex shapes out of simple geometries
+- How easy it is for one operation to mess up the whole model
+- Deadline working and dealing with an unfamiliar program
 
-## 🚀 Final Thoughts
+## Conclusion
 
-Is this a good Toyota Hilux model? **Not really.**
+Is this a good model of Toyota Hilux? **No.**
 
-Is it a decent first attempt at using FreeCAD? **I'd say so.**
+Is it a pretty good try for someone new to FreeCAD? **Sure thing.**
 
-There's definitely a lot of room for improvement, especially with the windows, proportions, and overall detailing.
+Definitely can use some improvements when it comes to windows, dimensions and detailing.
 
-But the goal wasn't to create a professional-grade model. It was to learn FreeCAD, experiment with 3D modelling, and complete something within a week.
+But the point wasn't to make a pro model. The task was to try FreeCAD, get into 3D modeling and do it in a week.
 
-And I did exactly that.
+Exactly what I did.
 
-**Version 1: A slightly cursed Toyota Hilux.** 🚙
+**Version 1: Slightly cursed Toyota Hilux.**
 
-*Made with FreeCAD, trial and error, and a fair amount of confusion.*
+*Created using FreeCAD and my mistakes.*

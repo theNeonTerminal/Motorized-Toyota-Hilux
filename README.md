@@ -20,6 +20,8 @@ I had around **one week** to work on this, while also learning how FreeCAD works
 
 The final model is far from perfect, but I managed to put together something that at least resembles a pickup truck.
 
+[!NOTE] This model is fully static with no moving parts, even the wheels remain static as well
+
 ### What I Managed to Model
 
 - Basic truck body and cabin
@@ -79,3 +81,11 @@ Exactly what I did.
 **Version 1: Slightly cursed Toyota Hilux.**
 
 *Created using FreeCAD and my mistakes.*
+
+---
+
+## Dimensions
+
+![Dimensions - Top View](4.png)
+
+![Dimensions - Side View](3.png)
